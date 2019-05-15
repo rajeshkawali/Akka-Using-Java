@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: kawalr
+Class-Path: lib/akka-actor_2.10-2.2.3.jar lib/akka-remote_2.10-2.2.3.j
+ ar lib/netty-3.6.6.Final.jar lib/protobuf-java-2.4.1.jar lib/uncommon
+ s-maths-1.2.2a.jar lib/config-1.3.4.jar lib/scala-library-2.10.6.jar
+Build-Jdk: 1.8.0_191
+Created-By: Maven Integration for Eclipse
+Main-Class: com.akka.main.PrimeCalculator
+
